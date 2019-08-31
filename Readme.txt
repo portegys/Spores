@@ -69,4 +69,10 @@ RELEASE INFORMATION
 -------------------------------------------------------------------------------
 v0.1
 
+Reference:
+T.E. Portegys, "Spores: a Push and Pull Peer-to-Peer File Sharing Approach",
+The 2004 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA'04)
+https://www.researchgate.net/publication/2940771_Spores_a_Push_and_Pull_Peer-to-Peer_File_Sharing_Approach
+
+
 
