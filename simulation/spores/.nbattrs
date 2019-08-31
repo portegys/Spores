@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="SporesSimApp.java">
+        <attr name="class_dependency_java.awt.event.ActionListener" stringvalue="SporesSimApp.Controls"/>
+        <attr name="class_dependency_javax.swing.JPanel" stringvalue="SporesSimApp.Controls"/>
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="SporesSimApp"/>
+    </fileobject>
+    <fileobject name="Combinations.java">
+        <attr name="NetBeansAttrArguments" serialvalue="aced0005757200135b4c6a6176612e6c616e672e537472696e673badd256e7e91d7b470200007870000000027400013374000132"/>
+    </fileobject>
+    <fileobject name="SporesSim.java">
+        <attr name="class_dependency_java.awt.Canvas" stringvalue="SporesSim"/>
+    </fileobject>
+</attributes>

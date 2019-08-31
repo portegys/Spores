@@ -1,0 +1,6 @@
+1000
+10000
+
+Size
+C:\Users\tompo_000\Documents\research\social\Spores\private-files
+C:\Users\tompo_000\Documents\research\social\Spores\shared-files
